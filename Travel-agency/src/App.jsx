@@ -5,6 +5,7 @@ import Footer from './Components/Footer'
 import Home from './Components/Home'
 import Navbar from './Components/Navbar'
 import Offer from './Components/Offer'
+import ScrollToTop from './Components/ScrollToTop'
 import Services from './Components/Services'
 import Testimonial from './Components/Testimonial'
 import Tours from './Components/Tours'
@@ -21,6 +22,7 @@ export default function App() {
       <Testimonial />
       <DownloadApp />
       <Footer />
+      <ScrollToTop />
     </div>
   )
 }

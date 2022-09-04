@@ -63,7 +63,7 @@ export default function Footer() {
         </div>
         <div className="col">
             <h2>Newsletter</h2>
-            <div className="newletter">
+            <div className="newsletter">
                 <input type="text" placeholder="Your Email" />
                 <Button text="Subscribe Now" />
             </div>
